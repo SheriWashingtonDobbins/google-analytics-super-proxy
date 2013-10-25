@@ -33,13 +33,13 @@ __author__ = 'sheriwashingtondobbins@gmail.com (Sheri Washington Dobbins)'
 
 # OAuth 2.0 Client Settings
 AUTH_CONFIG = {
-    'OAUTH_CLIENT_ID': '779891194820-suqr948g1n1nkucq44b99iv0ipvr28ov.apps.googleusercontent.com',
-    'OAUTH_CLIENT_SECRET': 'qfuzEo5wxGaYy2yKQBrqJpTf',
+    'OAUTH_CLIENT_ID': '962826079314-9qasv9t697bttvaab59eg8l5d88i2vfq.apps.googleusercontent.com',
+    'OAUTH_CLIENT_SECRET': 'Vnf8hH3uHwNYPwv2NN2I--K6',
 
     # E.g. Local Dev Env on port 8080: http://localhost:8080
     # E.g. Hosted on App Engine: https://your-application-id.appsot.com
     'OAUTH_REDIRECT_URI': '%s%s' % (
-        'https://bkvhawaiiteams.appspot.com',
+        'https://bkvhawaiiteamsites.appspot.com',
         '/admin/auth')
 }
 
